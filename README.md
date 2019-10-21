@@ -15,7 +15,6 @@ The repository was created to track my progress in ML related topics in order to
 	- [Courses & Certificates](#Courses--Certificates)
 	- [Contact](#Contact)
 
-
 ## Projects
 
 
@@ -36,14 +35,12 @@ In this section I want to show off my knowledge about various ML related algorit
 | K-Means Clustering | K-Means  | Python (Scikit-Learn) | Dummy Data | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/machinelearning/Kmeans/Kmeans.ipynb) |
 | Exoplanets | SVM  | Python (Scikit-Learn) | [Dataset](https://github.com/faznaimov/road-to-ml/blob/master/showcases/machinelearning/Exoplanets/Resources/exoplanet_data.csv) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/machinelearning/Exoplanets/exoplanet-exploration.ipynb) |
 
-
 ### Deep Learning
 
 | Description | Net Type | Implementation | Dataset | Notebook |
 | :---: | :---: | :---: | :---: | :---: |
 | Gender Recognition by Voice and Speech Analysis | MLP | Python (TensorFlow) | [Dataset](https://github.com/faznaimov/road-to-ml/blob/master/showcases/machinelearning/Respiratory_Disease/Resources/smoking.csv) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/machinelearning/Respiratory_Disease/Respiratory_Disease.ipynb) |
 | Smartphone Activity Detector | MLP | Python (TensorFlow) | [Dataset](https://github.com/faznaimov/road-to-ml/tree/master/showcases/deeplearning/Smartphones/Resources/) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/deeplearning/Smartphones/Smartphone_Activity_Detector.ipynb) |
-
 
 ## Courses & Certificates
 
@@ -53,9 +50,9 @@ In this section I want to show off my knowledge about various ML related algorit
   + [Natural Language Processing in TensorFlow]() (Coursera - deeplearning.ai)
   + [Sequences, Time Series and Prediction]() (Coursera - deeplearning.ai)
 
-
 ## Contact
 - [Portfolio](https://faznaimov.github.io)
 - [LinkedIn](https://www.linkedin.com/in/faznaimov/)
 - [Email](mailto:faz.naimov@gmail.com)
+
 
