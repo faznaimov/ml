@@ -1,10 +1,10 @@
-# My Road to ML
+# MY ROAD TO ML
 
-## About
+## ABOUT
 
 The repository was created to track my progress in ML related topics in order to organize my knowledge and goals. Includes ML projects and programming showcases in Scikit-Learn, TensorFlow and Keras.
 
-## Table of content
+## TABLE OF CONTENT
 - [My Road to ML](#My-Road-to-ML)
 	- [About](#About)
 	- [Table of content](#Table-of-content)
@@ -19,17 +19,15 @@ The repository was created to track my progress in ML related topics in order to
 	- [Courses & Certificates](#Courses--Certificates)
 	- [Contact](#Contact)
 
-## Projects (in progress...)
-### The Simpsons Classification
-### CNN
-### NLP
-### Time Series
+## PROJECTS
 
 | Problem | Net Type | Description | Implementation | Dataset | Notebook |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | The Simpsons Classification | CNN |  | Python (TensorFlow) | [Kaggle](https://www.kaggle.com/alexattia/the-simpsons-characters-dataset/data) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/projects/model_training.ipynb) |
+| Sign Language Detector | CNN |  | Python (TensorFlow) | [Sign Language MNIST](https://www.kaggle.com/datamunge/sign-language-mnist) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/projects/signlanguage.ipynb) |
+| Poem Generator | RNN |  | Python (TensorFlow) | [Shakespeare Sonnets](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/sonnets.txt) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/projects/shakespeare.ipynb) |
 
-## ML Showcase
+## ML SHOWCASE
 
 ### Machine Learning
 
@@ -57,7 +55,7 @@ The repository was created to track my progress in ML related topics in order to
 | BBC News | RNN |  | Python (TensorFlow) | [BBC Archive](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/bbc-text.csv) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/deeplearning/BBC-archive/bbc-archive.ipynb) |
 | Tweets Sentiment Analysis | RNN |  | Python (TensorFlow) | [Kaggle](https://www.kaggle.com/kazanova/sentiment140) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/deeplearning/sentiment140-tweets/twitter.ipynb) |
 
-## Courses & Certificates
+## COURSES & CERTIFICATES
 
   + [Machine Learning]() (Coursera - Stanford - Andrew Ng)
   + [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/verify/L2A7ZCZH8BYL) (Mar 2017 - Aug 2017) (Coursera - deeplearning.ai)
@@ -65,9 +63,8 @@ The repository was created to track my progress in ML related topics in order to
   + [Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/383HVL6NYSE2) (Coursera - deeplearning.ai)
   + [Sequences, Time Series and Prediction](https://www.coursera.org/account/accomplishments/certificate/) (Coursera - deeplearning.ai)
 
-## Contact
+## CONTACT
+
 - [Portfolio](https://faznaimov.github.io)
 - [LinkedIn](https://www.linkedin.com/in/faznaimov/)
 - [Email](mailto:faz.naimov@gmail.com)
-
-
