@@ -2,7 +2,7 @@
 
 ## About
 
-The repository was created to track my progress in ML related topics in order to organize my knowledge and goals. Includes mini ML projects and programming showcases in Scikit-Learn, TensorFlow and Keras.
+The repository was created to track my progress in ML related topics in order to organize my knowledge and goals. Includes ML projects and programming showcases in Scikit-Learn, TensorFlow and Keras.
 
 ## Table of content
 - [My Road to ML](#My-Road-to-ML)
@@ -13,7 +13,7 @@ The repository was created to track my progress in ML related topics in order to
 		- [CNN](#CNN)
 		- [NLP](#NLP)
 		- [Time Series](#Time-Series)
-	- [ML Programming Showcase](#ML-Programming-Showcase)
+	- [ML Showcase](#ML-Showcase)
 		- [Machine Learning](#Machine-Learning)
 		- [Deep Learning](#Deep-Learning)
 	- [Courses & Certificates](#Courses--Certificates)
@@ -29,9 +29,7 @@ The repository was created to track my progress in ML related topics in order to
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | The Simpsons Classification | CNN |  | Python (TensorFlow) | [Kaggle](https://www.kaggle.com/alexattia/the-simpsons-characters-dataset/data) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/projects/model_training.ipynb) |
 
-## ML Programming Showcase
-
-In this section I want to show off my knowledge about various ML related algorithms, frameworks, programming languages, libraries and more.
+## ML Showcase
 
 ### Machine Learning
 
