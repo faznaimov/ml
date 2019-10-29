@@ -25,6 +25,10 @@ The repository was created to track my progress in ML related topics in order to
 ### NLP
 ### Time Series
 
+| Problem | Net Type | Description | Implementation | Dataset | Notebook |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| The Simpsons Classification | CNN |  | Python (TensorFlow) | [Kaggle](https://www.kaggle.com/alexattia/the-simpsons-characters-dataset/data) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/projects/model_training.ipynb) |
+
 ## ML Programming Showcase
 
 In this section I want to show off my knowledge about various ML related algorithms, frameworks, programming languages, libraries and more.
@@ -48,20 +52,20 @@ In this section I want to show off my knowledge about various ML related algorit
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Gender Recognition by Voice and Speech Analysis | MLP |  | Python (TensorFlow) | [Dataset](https://github.com/faznaimov/road-to-ml/blob/master/showcases/machinelearning/Respiratory_Disease/Resources/smoking.csv) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/machinelearning/Respiratory_Disease/Respiratory_Disease.ipynb) |
 | Smartphone Activity Detector | MLP |  | Python (TensorFlow) | [Dataset](https://github.com/faznaimov/road-to-ml/tree/master/showcases/deeplearning/Smartphones/Resources/) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/deeplearning/Smartphones/Smartphone_Activity_Detector.ipynb) |
-| Digit-Classification | CNN |  | Python (TensorFlow) | MNIST | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/deeplearning/.ipynb) |
-| Cats vs Dogs | CNN |  | Python (TensorFlow) | [Dataset](https://www.microsoft.com/en-us/download/details.aspx?id=54765) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/deeplearning/Cats-vs-Dogs/Cats-vs-Dogs.ipynb) |
+| Digit-Classification | CNN |  | Python (TensorFlow) | MNIST | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/deeplearning/Digit-Classification/Digit-Classification.ipynb) |
+| Cats vs Dogs | CNN |  | Python (TensorFlow) | [Microsoft](https://www.microsoft.com/en-us/download/details.aspx?id=54765) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/deeplearning/Cats-vs-Dogs/Cats-vs-Dogs.ipynb) |
 | Happy vs Sad | CNN |  | Python (TensorFlow) | [Dataset](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/happy-or-sad.zip) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/deeplearning/happy-vs-sad/happy-vs-sad.ipynb) |
 | Horses vs Humans | CNN |  | Python (TensorFlow) | [Dataset](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/horse-or-human.zip) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/deeplearning/horses-vs-humans/horses-vs-humans.ipynb) |
-| BBC News | NLP |  | Python (TensorFlow) | [BBC Archive](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/bbc-text.csv) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/deeplearning/BBC-archive/bbc-archive.ipynb) |
-| Tweets Sentiment Analysis | NLP |  | Python (TensorFlow) | [sentiment140](https://www.kaggle.com/kazanova/sentiment140) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/deeplearning/sentiment140-tweets/twitter.ipynb) |
+| BBC News | RNN |  | Python (TensorFlow) | [BBC Archive](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/bbc-text.csv) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/deeplearning/BBC-archive/bbc-archive.ipynb) |
+| Tweets Sentiment Analysis | RNN |  | Python (TensorFlow) | [Kaggle](https://www.kaggle.com/kazanova/sentiment140) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/deeplearning/sentiment140-tweets/twitter.ipynb) |
 
 ## Courses & Certificates
 
   + [Machine Learning]() (Coursera - Stanford - Andrew Ng)
   + [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/verify/L2A7ZCZH8BYL) (Mar 2017 - Aug 2017) (Coursera - deeplearning.ai)
   + [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/account/accomplishments/verify/EECS4FLVL27L) (Coursera - deeplearning.ai)
-  + [Natural Language Processing in TensorFlow]() (Coursera - deeplearning.ai)
-  + [Sequences, Time Series and Prediction]() (Coursera - deeplearning.ai)
+  + [Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/383HVL6NYSE2) (Coursera - deeplearning.ai)
+  + [Sequences, Time Series and Prediction](https://www.coursera.org/account/accomplishments/certificate/) (Coursera - deeplearning.ai)
 
 ## Contact
 - [Portfolio](https://faznaimov.github.io)
