@@ -8,7 +8,7 @@ The repository was created to track my progress in ML related topics in order to
 - [My Road to ML](#My-Road-to-ML)
 	- [About](#About)
 	- [Table of content](#Table-of-content)
-	- [Projects (in progress...)](#Projects-in-progress)
+	- [Projects](#Projects)
 		- [The Simpsons Classification](#The-Simpsons-Classification)
 		- [CNN](#CNN)
 		- [NLP](#NLP)
@@ -23,9 +23,9 @@ The repository was created to track my progress in ML related topics in order to
 
 | Problem | Net Type | Description | Implementation | Dataset | Notebook |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| The Simpsons Classification | CNN |  | Python (TensorFlow) | [Kaggle](https://www.kaggle.com/alexattia/the-simpsons-characters-dataset/data) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/projects/model_training.ipynb) |
-| Sign Language Detector | CNN |  | Python (TensorFlow) | [Sign Language MNIST](https://www.kaggle.com/datamunge/sign-language-mnist) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/projects/signlanguage.ipynb) |
-| Poem Generator | RNN |  | Python (TensorFlow) | [Shakespeare Sonnets](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/sonnets.txt) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/projects/shakespeare.ipynb) |
+| The Simpsons Classification | CNN | 4 and 6 convolutions | Python (TensorFlow) | [Kaggle](https://www.kaggle.com/alexattia/the-simpsons-characters-dataset/data) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/projects/model_training.ipynb) |
+| Poem Generator | RNN | Bidirectional LSTM 150 and LSTM 100 | Python (TensorFlow) | [Shakespeare Sonnets](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/sonnets.txt) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/projects/shakespeare.ipynb) |
+| Sun |  |  | Python (TensorFlow) | []() | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/projects/*.ipynb) |
 
 ## ML SHOWCASE
 
@@ -46,14 +46,16 @@ The repository was created to track my progress in ML related topics in order to
 
 | Problem | Net Type | Description | Implementation | Dataset | Notebook |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Gender Recognition by Voice and Speech Analysis | MLP |  | Python (TensorFlow) | [Dataset](https://github.com/faznaimov/road-to-ml/blob/master/showcases/machinelearning/Respiratory_Disease/Resources/smoking.csv) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/machinelearning/Respiratory_Disease/Respiratory_Disease.ipynb) |
-| Smartphone Activity Detector | MLP |  | Python (TensorFlow) | [Dataset](https://github.com/faznaimov/road-to-ml/tree/master/showcases/deeplearning/Smartphones/Resources/) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/deeplearning/Smartphones/Smartphone_Activity_Detector.ipynb) |
-| Digit-Classification | CNN |  | Python (TensorFlow) | MNIST | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/deeplearning/Digit-Classification/Digit-Classification.ipynb) |
-| Cats vs Dogs | CNN |  | Python (TensorFlow) | [Microsoft](https://www.microsoft.com/en-us/download/details.aspx?id=54765) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/deeplearning/Cats-vs-Dogs/Cats-vs-Dogs.ipynb) |
-| Happy vs Sad | CNN |  | Python (TensorFlow) | [Dataset](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/happy-or-sad.zip) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/deeplearning/happy-vs-sad/happy-vs-sad.ipynb) |
-| Horses vs Humans | CNN |  | Python (TensorFlow) | [Dataset](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/horse-or-human.zip) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/deeplearning/horses-vs-humans/horses-vs-humans.ipynb) |
+| Gender Recognition by Voice and Speech Analysis | MLP | 2-layers, adam | Python (TensorFlow) | [Dataset](https://github.com/faznaimov/road-to-ml/blob/master/showcases/machinelearning/Respiratory_Disease/Resources/smoking.csv) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/machinelearning/Respiratory_Disease/Respiratory_Disease.ipynb) |
+| Smartphone Activity Detector | MLP | 2-layers, adam | Python (TensorFlow) | [Dataset](https://github.com/faznaimov/road-to-ml/tree/master/showcases/deeplearning/Smartphones/Resources/) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/deeplearning/Smartphones/Smartphone_Activity_Detector.ipynb) |
+| Digit-Classification | CNN | 1 convolution | Python (TensorFlow) | MNIST | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/deeplearning/Digit-Classification/Digit-Classification.ipynb) |
+| Cats vs Dogs | CNN | 3 convolutions | Python (TensorFlow) | [Microsoft](https://www.microsoft.com/en-us/download/details.aspx?id=54765) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/deeplearning/Cats-vs-Dogs/Cats-vs-Dogs.ipynb) |
+| Happy vs Sad | CNN | 3 convolutions | Python (TensorFlow) | [Dataset](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/happy-or-sad.zip) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/deeplearning/happy-vs-sad/happy-vs-sad.ipynb) |
+| Horses vs Humans | CNN | InceptionV3, dropout-regularization, data-augmentation | Python (TensorFlow) | [Dataset](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/horse-or-human.zip) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/deeplearning/horses-vs-humans/horses-vs-humans.ipynb) |
+| Sign Language Detector | CNN |  | Python (TensorFlow) | [Sign Language MNIST](https://www.kaggle.com/datamunge/sign-language-mnist) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/projects/signlanguage.ipynb) |
 | BBC News | RNN |  | Python (TensorFlow) | [BBC Archive](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/bbc-text.csv) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/deeplearning/BBC-archive/bbc-archive.ipynb) |
 | Tweets Sentiment Analysis | RNN |  | Python (TensorFlow) | [Kaggle](https://www.kaggle.com/kazanova/sentiment140) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/deeplearning/sentiment140-tweets/twitter.ipynb) |
+
 
 ## COURSES & CERTIFICATES
 
