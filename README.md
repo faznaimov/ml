@@ -2,7 +2,7 @@
 
 ## ABOUT
 
-The repository was created to track my progress in ML related topics in order to organize my knowledge and goals. Includes ML projects and programming showcases in Scikit-Learn, TensorFlow and Keras.
+The repository was created to track my progress in Machine Learning related topics in order to organize my knowledge and goals. Includes machine learning projects and showcases in Scikit-Learn, TensorFlow and Keras.
 
 ## TABLE OF CONTENT
 - [My Road to ML](#My-Road-to-ML)
@@ -19,7 +19,8 @@ The repository was created to track my progress in ML related topics in order to
 
 | Problem | Net Type | Description | Implementation | Dataset | Notebook |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| The Simpsons Classification | CNN | 4 and 6 convolutions | Python (Keras) | [Kaggle](https://www.kaggle.com/alexattia/the-simpsons-characters-dataset/data) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/projects/simpsons-classification.ipynb) |
+| The Simpsons Classification | CNN | 4 and 6 convolutions, dropout-regularization, data-augmentation | Python (Keras) | [Kaggle](https://www.kaggle.com/alexattia/the-simpsons-characters-dataset/data) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/projects/simpsons-classification.ipynb) |
+| Fraud Detection | MLP | 3-layers, dropout-regularization | Python (TensorFlow) | [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/projects/fraud-detection.ipynb) |
 | Poem Generator | RNN | Bidirectional LSTM 150, dropout, LSTM 100 | Python (Keras) | [Shakespeare Sonnets](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/sonnets.txt) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/projects/shakespeare.ipynb) |
 | Sunspot Prediction | CNN/RNN | 1 convolution, 2 LSTM 60 | Python (Keras) | [Github](https://github.com/jbrownlee/Datasets/blob/master/monthly-sunspots.csv) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/projects/sunspots.ipynb) |
 
@@ -61,5 +62,5 @@ The repository was created to track my progress in ML related topics in order to
 ## CONTACT
 
 - [Portfolio](https://faznaimov.github.io)
-- [LinkedIn](https://www.linkedin.com/in/faznaimov/)
+- [LinkedIn](https://www.linkedin.com/in/fazn/)
 - [Email](mailto:faz.naimov@gmail.com)
