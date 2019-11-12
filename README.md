@@ -24,6 +24,7 @@ The repository was created to track my progress in Machine Learning related topi
 | Poem Generator | RNN | Bidirectional LSTM 150, dropout, LSTM 100 | Python (Keras) | [Shakespeare Sonnets](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/sonnets.txt) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/projects/shakespeare.ipynb) |
 | Sunspot Prediction | CNN/RNN | 1 convolution, 2 LSTM 60 | Python (Keras) | [Github](https://github.com/jbrownlee/Datasets/blob/master/monthly-sunspots.csv) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/projects/sunspots.ipynb) |
 
+
 ## ML SHOWCASE
 
 ### Machine Learning
