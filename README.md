@@ -21,7 +21,7 @@ The repository was created to track my progress in Machine Learning related topi
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | The Simpsons Classification | CNN | 4 and 6 convolutions, dropout-regularization, data-augmentation | Python (Keras) | [Kaggle](https://www.kaggle.com/alexattia/the-simpsons-characters-dataset/data) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/projects/simpsons-classification.ipynb) |
 | Fraud Detection | MLP | 3-layers, dropout-regularization | Python (TensorFlow) | [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/projects/fraud-detection.ipynb) |
-| Poem Generator | RNN | Bidirectional LSTM 150, dropout, LSTM 100 | Python (Keras) | [Shakespeare Sonnets](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/sonnets.txt) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/projects/shakespeare.ipynb) |
+| Tweets Sentiment Analysis | CNN/RNN | convolution, max pooling, LSTM 64 | Python (Keras) | [Kaggle](https://www.kaggle.com/kazanova/sentiment140) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/projects/sentiment140-tweets/twitter.ipynb) |
 | Sunspot Prediction | CNN/RNN | 1 convolution, 2 LSTM 60 | Python (Keras) | [Github](https://github.com/jbrownlee/Datasets/blob/master/monthly-sunspots.csv) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/projects/sunspots.ipynb) |
 
 
@@ -49,8 +49,7 @@ The repository was created to track my progress in Machine Learning related topi
 | Horses vs Humans | CNN | InceptionV3, dropout-regularization, data-augmentation | Python (Keras) | [Dataset](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/horse-or-human.zip) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/deeplearning/horses-vs-humans/horses-vs-humans.ipynb) |
 | Sign Language Detector | CNN | 2 convolutions, data-augmentation | Python (Keras) | [Sign Language MNIST](https://www.kaggle.com/datamunge/sign-language-mnist) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/deeplearning/signlanguage/signlanguage.ipynb) |
 | BBC News | RNN | 3 layers (embedding, global average pooling, dense) | Python (Keras) | [BBC Archive](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/bbc-text.csv) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/deeplearning/BBC-archive/bbc-archive.ipynb) |
-| Tweets Sentiment Analysis | RNN/CNN | convolution, max pooling, LSTM 64 | Python (Keras) | [Kaggle](https://www.kaggle.com/kazanova/sentiment140) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/deeplearning/sentiment140-tweets/twitter.ipynb) |
-
+| Poem Generator | RNN | Bidirectional LSTM 150, dropout, LSTM 100 | Python (Keras) | [Shakespeare Sonnets](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/sonnets.txt) | [Notebook](https://github.com/faznaimov/road-to-ml/blob/master/showcases/deeplearning/shakespeare.ipynb) |
 
 ## COURSES & CERTIFICATES
 
