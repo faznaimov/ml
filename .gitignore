@@ -1,5 +1,6 @@
 config.*
 .ipynb_checkpoints
 .DS_Store
+*.csv
 *.pyc
 __pycache__
