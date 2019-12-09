@@ -21,7 +21,7 @@ The repository was created to track my progress in Machine Learning related topi
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | The Simpsons Classification | CNN | 4 and 6 convolutions, dropout-regularization, data-augmentation | Python (Keras) | [Kaggle](https://www.kaggle.com/alexattia/the-simpsons-characters-dataset/data) | [Notebook](https://github.com/faznaimov/ml/blob/master/projects/simpsons-classification.ipynb) |
 | Fraud Detection | MLP | 4-layers, dropout-regularization | Python (Keras) | [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud) | [Notebook](https://github.com/faznaimov/ml/blob/master/projects/fraud_detection.ipynb) |
-| Twitter Sentiment Analysis | CNN/RNN | convolution, max pooling, LSTM 64 | Python (Keras) | [Kaggle](https://www.kaggle.com/kazanova/sentiment140) | [Notebook](https://github.com/faznaimov/ml/blob/master/projects/twitter.ipynb) |
+| Twitter Sentiment Analysis | CNN/RNN | convolution, max pooling, LSTM 64, dropout-regularization | Python (Keras) | [Kaggle](https://www.kaggle.com/kazanova/sentiment140) | [Notebook](https://github.com/faznaimov/ml/blob/master/projects/twitter.ipynb) |
 | Sunspot Prediction | CNN/RNN | 1 convolution, 2 LSTM 60 | Python (Keras) | [Github](https://github.com/jbrownlee/Datasets/blob/master/monthly-sunspots.csv) | [Notebook](https://github.com/faznaimov/ml/blob/master/projects/sunspots.ipynb) |
 
 
@@ -45,7 +45,7 @@ The repository was created to track my progress in Machine Learning related topi
 | Problem | Net Type | Description | Implementation | Dataset | Notebook |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Smartphone Activity Detector | MLP | 2-layers| Python (Keras) | [Dataset](https://github.com/faznaimov/ml/tree/master/showcases/deeplearning/Smartphones/Resources/) | [Notebook](https://github.com/faznaimov/ml/blob/master/showcases/deeplearning/Smartphones/Smartphone_Activity_Detector.ipynb) |
-| Gold Futures Prediction | MLP | | Python (TensorFlow) | [Investing.com](investing.com) | [Notebook](https://github.com/faznaimov/ml/blob/master/showcases/deeplearning/Futures-Prediction/Futures-Prediction.ipynb) |
+| Gold Futures Prediction | MLP |  | Python (TensorFlow) | [Investing.com](investing.com) | [Notebook](https://github.com/faznaimov/ml/blob/master/showcases/deeplearning/Futures-Prediction/Futures-Prediction.ipynb) |
 | Cats vs Dogs | CNN | 3 convolutions | Python (Keras) | [Microsoft](https://www.microsoft.com/en-us/download/details.aspx?id=54765) | [Notebook](https://github.com/faznaimov/ml/blob/master/showcases/deeplearning/Cats-vs-Dogs/Cats-vs-Dogs.ipynb) |
 | Horses vs Humans | CNN | InceptionV3, dropout-regularization, data-augmentation | Python (Keras) | [Dataset](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/horse-or-human.zip) | [Notebook](https://github.com/faznaimov/ml/blob/master/showcases/deeplearning/horses-vs-humans/horses-vs-humans.ipynb) |
 | Sign Language Detector | CNN | 2 convolutions, data-augmentation | Python (Keras) | [Sign Language MNIST](https://www.kaggle.com/datamunge/sign-language-mnist) | [Notebook](https://github.com/faznaimov/ml/blob/master/showcases/deeplearning/signlanguage/signlanguage.ipynb) |
