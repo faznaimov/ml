@@ -44,8 +44,8 @@ The repository was created to track my progress in Machine Learning related topi
 
 | Problem | Net Type | Description | Implementation | Dataset | Notebook |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Smartphone Activity Detector | MLP | 2-layers| Python (Keras) | [Dataset](https://github.com/faznaimov/ml/tree/master/showcases/deeplearning/Smartphones/Resources/) | [Notebook](https://github.com/faznaimov/ml/blob/master/showcases/deeplearning/Smartphones/Smartphone_Activity_Detector.ipynb) |
-| Gold Futures Prediction | MLP |  | Python (TensorFlow) | [Investing.com](investing.com) | [Notebook](https://github.com/faznaimov/ml/blob/master/showcases/deeplearning/Futures-Prediction/Futures-Prediction.ipynb) |
+| Smartphone Activity Detector | MLP | - | Python (Keras) | [Dataset](https://github.com/faznaimov/ml/tree/master/showcases/deeplearning/Smartphones/Resources/) | [Notebook](https://github.com/faznaimov/ml/blob/master/showcases/deeplearning/Smartphones/Smartphone_Activity_Detector.ipynb) |
+| Gold Futures Prediction | MLP | - | Python (TensorFlow) | [Investing.com](investing.com) | [Notebook](https://github.com/faznaimov/ml/blob/master/showcases/deeplearning/Futures-Prediction/Futures-Prediction.ipynb) |
 | Cats vs Dogs | CNN | 3 convolutions | Python (Keras) | [Microsoft](https://www.microsoft.com/en-us/download/details.aspx?id=54765) | [Notebook](https://github.com/faznaimov/ml/blob/master/showcases/deeplearning/Cats-vs-Dogs/Cats-vs-Dogs.ipynb) |
 | Horses vs Humans | CNN | InceptionV3, dropout-regularization, data-augmentation | Python (Keras) | [Dataset](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/horse-or-human.zip) | [Notebook](https://github.com/faznaimov/ml/blob/master/showcases/deeplearning/horses-vs-humans/horses-vs-humans.ipynb) |
 | Sign Language Detector | CNN | 2 convolutions, data-augmentation | Python (Keras) | [Sign Language MNIST](https://www.kaggle.com/datamunge/sign-language-mnist) | [Notebook](https://github.com/faznaimov/ml/blob/master/showcases/deeplearning/signlanguage/signlanguage.ipynb) |
