@@ -2,7 +2,7 @@
 
 ## ABOUT
 
-The repository was created to track my progress in Machine Learning related topics in order to organize my knowledge and goals. Includes machine learning projects and showcases in Scikit-Learn, TensorFlow and Keras.
+The repository was created to track my progress in Machine Learning related topics in order to organize my knowledge and goals. Includes machine learning projects and showcases in Scikit-Learn, TensorFlow, and Keras.
 
 ## TABLE OF CONTENT
 - [My Road to ML](#My-Road-to-ML)
