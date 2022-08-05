@@ -54,7 +54,7 @@ The repository was created to track my progress in Machine Learning related topi
 
 ## COURSES & CERTIFICATES
 
-  + [Machine Learning]() (Coursera - Stanford - Andrew Ng)
+  + [Machine Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/USEYWVMLNW4E) (Coursera - Stanford - Andrew Ng)
   + [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/L2A7ZCZH8BYL) (Coursera - deeplearning.ai)
   + [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/EECS4FLVL27L) (Coursera - deeplearning.ai)
   + [Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/383HVL6NYSE2) (Coursera - deeplearning.ai)
