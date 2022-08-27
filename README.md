@@ -31,6 +31,7 @@ The repository was created to track my progress in Machine Learning related topi
 
 | Description | Algorithm | Implementation | Dataset | Notebook |
 | :---: | :---: | :---: | :---: | :---: |
+| Childhood Respiratory Disease | Polynomial Regression | Raw Python | [Dataset](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/Respiratory_Disease/Resources/smoking.csv) | [Notebook](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/Respiratory_Disease/Respiratory_Disease_Raw_Python.ipynb) |
 | Childhood Respiratory Disease | Polynomial Regression | Python (Scikit-Learn) | [Dataset](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/Respiratory_Disease/Resources/smoking.csv) | [Notebook](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/Respiratory_Disease/Respiratory_Disease.ipynb) |
 | Gender Recognition by Voice and Speech Analysis | Logistic Regression | Python (Scikit-Learn) | [Dataset](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/Voice_Recognition/Resources/voice.csv) | [Notebook](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/Voice_Recognition/Voice_Recognition.ipynb) |
 | Diabetes Test | KNN  | Python (Scikit-Learn) | [Dataset](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/KNN/Resources/diabetes.csv) | [Notebook](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/KNN/KNN.ipynb) |
