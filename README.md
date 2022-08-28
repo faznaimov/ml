@@ -23,6 +23,7 @@ The repository was created to track my progress in Machine Learning related topi
 | Fraud Detection | MLP | 4-layers, dropout-regularization | Python (Keras) | [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud) | [Notebook](https://github.com/faznaimov/ml/blob/master/projects/fraud_detection.ipynb) |
 | Twitter Sentiment Analysis | CNN/RNN | convolution, max pooling, LSTM 64, dropout-regularization | Python (Keras) | [Kaggle](https://www.kaggle.com/kazanova/sentiment140) | [Notebook](https://github.com/faznaimov/ml/blob/master/projects/twitter.ipynb) |
 | Sunspot Prediction | CNN/RNN | 1 convolution, 2 LSTM 60 | Python (Keras) | [Github](https://github.com/jbrownlee/Datasets/blob/master/monthly-sunspots.csv) | [Notebook](https://github.com/faznaimov/ml/blob/master/projects/sunspots.ipynb) |
+| Titanic Kaggle competition | Decision Tree | XGBoost | Python  | [Github](https://www.kaggle.com/competitions/titanic/data) | [Notebook](https://github.com/faznaimov/ml/blob/master/projects/titanic.ipynb) |
 
 
 ## ML SHOWCASE
