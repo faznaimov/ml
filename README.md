@@ -20,10 +20,10 @@ The repository was created to track my progress in Machine Learning related topi
 ## Mini Projects
 | Problem | Description | Tech Stack | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| [The Simpsons Characters Classification](https://github.com/faznaimov/ml/blob/master/projects/simpsons-classification.ipynb) | CNN,  4 and 6 convolutions, dropout-regularization, data-augmentation | Python (TensorFlow) | [Kaggle](https://www.kaggle.com/alexattia/the-simpsons-characters-dataset/data) | 9/15/2019 | 10/27/2019 |
-| [Fraud Detection](https://github.com/faznaimov/ml/blob/master/projects/fraud_detection.ipynb) | MLP, 4-layers, dropout-regularization | Python (TensorFlow) | [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud) | 11/07/2019 | 11/24/2019 |
-| [Twitter Sentiment Analysis](https://github.com/faznaimov/ml/blob/master/projects/twitter.ipynb) | CNN/RNN, max pooling, LSTM 64, dropout-regularization | Python (TensorFlow) | [Kaggle](https://www.kaggle.com/kazanova/sentiment140) | 11/13/2019 | 12/10/2019 |
-| [Titanic Disaster Survivor Prediction](https://github.com/faznaimov/ml/blob/master/projects/titanic.ipynb) | XGBoost | Python  | [Kaggle](https://www.kaggle.com/competitions/titanic/data) | 08/9/2022 | 08/27/2022 |
+| [The Simpsons Characters Classification](https://github.com/faznaimov/ml/blob/master/projects/simpsons-classification.ipynb) | CNN,  4 and 6 convolutions, dropout-regularization, data-augmentation | Python, TensorFlow, Matplotlib, Flask, Numpy | [Kaggle](https://www.kaggle.com/alexattia/the-simpsons-characters-dataset/data) | 9/15/2019 | 10/27/2019 |
+| [Credit Card Fraud Detection](https://github.com/faznaimov/ml/blob/master/projects/fraud_detection.ipynb) | MLP, 4-layers, dropout-regularization | Python, TensorFlow, Sklearn, Matplotlib, Numpy, Pandas, Seaborn  | [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud) | 11/07/2019 | 11/24/2019 |
+| [Twitter Sentiment Analysis](https://github.com/faznaimov/ml/blob/master/projects/twitter.ipynb) | CNN/RNN, max pooling, LSTM 64, dropout-regularization | Python, TensorFlow, Numpy, Pandas, NTLK | [Kaggle](https://www.kaggle.com/kazanova/sentiment140) | 11/13/2019 | 12/10/2019 |
+| [Titanic Disaster Survivor Prediction](https://github.com/faznaimov/ml/blob/master/projects/titanic.ipynb) | XGBoost | Python, XGBoost, Numpy, Pandas, Matplotlib, Seaborn, GridSearch  | [Kaggle](https://www.kaggle.com/competitions/titanic/data) | 08/9/2022 | 08/27/2022 |
 
 
 ## ML Showcase
@@ -31,23 +31,26 @@ In this section I want to present my knowledge about various ML related algorith
 
 ### Raw Python
 #### Machine Learning
-| Algorithm | Description | Implementation | Dataset | Creation Date | Last Update |
+| Algorithm | Problem | Description | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: | 
 | Linear Regression | [Childhood Respiratory Disease](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/Respiratory_Disease/Respiratory_Disease_Raw_Python.ipynb) | Raw Python | [Dataset](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/Respiratory_Disease/Resources/smoking.csv) | 07/20/2022 | 08/27/2022 |
 | Logistic Regression | [Gender Recognition by Voice and Speech Analysis](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/Voice_Recognition/Voice_Recognition_Raw_Python.ipynb) | Raw Python  | [Dataset](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/Voice_Recognition/Resources/voice.csv) | 07/25/2022 | 08/27/2022 |
+| Gaussian Distribution Anomaly Detection | [Anomaly Detection](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/anomaly_detection/anomaly_detection.ipynb) | Raw Python  | Dummy Data | 08/29/2022 | 10/15/2022 |
+| Decision Tree | [Mashroom Classification](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/decision_tree/decision_tree.ipynb) | Raw Python  | Dummy Data | 08/10/2022 | 10/15/2022 |
+| K-means | [K-means Clustering](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/kmeans_raw/kmeans.ipynb) | Raw Python  | Dummy Data | 08/15/2022 | 10/15/2022 |
 
 ### Sklearn
-| Algorithm | Description | Implementation | Dataset | Creation Date | Last Update |
+| Algorithm | Problem | Description | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: | 
-| Linear Regression | [Childhood Respiratory Disease](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/Respiratory_Disease/Respiratory_Disease.ipynb) | Python (Scikit-Learn) | [Dataset](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/Respiratory_Disease/Resources/smoking.csv) | 08/19/2019 | 10/20/2019 |
-| Logistic Regression | [Gender Recognition by Voice and Speech Analysis](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/Voice_Recognition/Voice_Recognition.ipynb) | Python (Scikit-Learn) | [Dataset](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/Voice_Recognition/Resources/voice.csv) | 08/25/2019 | 10/19/2019 |
-| KNN | [Diabetes Test](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/KNN/KNN.ipynb) | Python (Scikit-Learn) | [Dataset](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/KNN/Resources/diabetes.csv) | 08/30/2019 | 10/20/2019 |
-| SVM | [Exoplanets](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/Exoplanets/exoplanet-exploration.ipynb)  | Python (Scikit-Learn) | [Dataset](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/GridSearch/Resources/diabetes.csv) | 9/18/2019 | 10/20/2019 |
-| Random Forest | [Diabetes Test](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/Trees/Trees.ipynb) | Python (Scikit-Learn) | [Dataset](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/Trees/Resources/diabetes.csv) | 9/24/2019 | 10/20/2019 |
-| K-Means | [K-Means Clustering](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/Kmeans/Kmeans.ipynb) | Python (Scikit-Learn) | Dummy Data | 9/26/2019 | 10/20/2019 |
+| Linear Regression | [Childhood Respiratory Disease](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/Respiratory_Disease/Respiratory_Disease.ipynb) | Sklearn | [Dataset](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/Respiratory_Disease/Resources/smoking.csv) | 08/19/2019 | 10/20/2019 |
+| Logistic Regression | [Gender Recognition by Voice and Speech Analysis](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/Voice_Recognition/Voice_Recognition.ipynb) | Sklearn | [Dataset](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/Voice_Recognition/Resources/voice.csv) | 08/25/2019 | 10/19/2019 |
+| KNN | [Diabetes Test](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/KNN/KNN.ipynb) | Sklearn | [Dataset](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/KNN/Resources/diabetes.csv) | 08/30/2019 | 10/20/2019 |
+| SVM | [Exoplanets](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/Exoplanets/exoplanet-exploration.ipynb)  | Sklearn | [Dataset](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/GridSearch/Resources/diabetes.csv) | 9/18/2019 | 10/20/2019 |
+| Random Forest | [Diabetes Test](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/Trees/Trees.ipynb) | Sklearn | [Dataset](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/Trees/Resources/diabetes.csv) | 9/24/2019 | 10/20/2019 |
+| K-means | [K-means Clustering](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/Kmeans/Kmeans.ipynb) | Sklearn | Dummy Data | 9/26/2019 | 10/20/2019 |
 
 ### TensorFlow
-| Net Type | Description | Implementation | Dataset | Creation Date | Last Update |
+| Net Type | Problem | Description | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: | 
 | MLP | [Smartphone Activity Detector](https://github.com/faznaimov/ml/blob/master/showcases/deeplearning/Smartphones/Smartphone_Activity_Detector.ipynb) | -  | [Dataset](https://github.com/faznaimov/ml/tree/master/showcases/deeplearning/Smartphones/Resources/) | 10/03/2019 | 10/20/2019 |
 | MLP | [Gold Futures Prediction](https://github.com/faznaimov/ml/blob/master/showcases/deeplearning/Futures-Prediction/Futures-Prediction.ipynb) | - | [Investing.com](investing.com) | 11/17/2019 | 11/29/2022
