@@ -39,6 +39,11 @@ In this section I want to present my knowledge about various ML related algorith
 | Decision Tree | [Mashroom Classification](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/decision_tree/decision_tree.ipynb) | Raw Python  | Dummy Data | 08/10/2022 | 10/15/2022 |
 | K-means | [K-means Clustering](https://github.com/faznaimov/ml/blob/master/showcases/machinelearning/kmeans_raw/kmeans.ipynb) | Raw Python  | Dummy Data | 08/15/2022 | 10/15/2022 |
 
+#### Deep Learning
+| Algorithm | Problem | Description | Dataset | Creation Date | Last Update |
+| :---: | :---: | :---: | :---: | :---: | :---: | 
+| MLP | [Coffee Roast](https://github.com/faznaimov/ml/blob/master/showcases/deeplearning/nn_raw/cofee_roast.ipynb) | Raw Python | Dummy Data | 09/07/2022 | 10/15/2022 |
+
 ### Sklearn
 | Algorithm | Problem | Description | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: | 
