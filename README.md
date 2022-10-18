@@ -13,7 +13,7 @@ The repository was created to track my progress in Machine Learning related topi
 	- [Sklearn](#Sklearn)
 	- [TensorFlow](#TensorFlow)
 		- [Image Classification](#Image-Classification)
-		- [Natural Language Processing (NLP)](#Natural-Language-Processing-(NLP))
+		- [Natural Language Processing (NLP)](#natural-language-processing-nlp)
 		- [Time Series](#Time-Series)
 		- [Other](#Other)
 - [Courses & Certificates](#Courses--Certificates)
