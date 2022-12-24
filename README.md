@@ -91,10 +91,10 @@ In this section I want to present my knowledge about various ML related algorith
   + [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101) (Udacity)
   + [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) (Udacity)
   + [Data Structures and Algorithms Course in Python](https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/l) (Udemy)
-  + [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/USEYWVMLNW4E) (Coursera - Stanford - Andrew Ng)
+  + [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/USEYWVMLNW4E) (Coursera - Stanford - Andrew Ng)
   + [DeepLearning.AI TensorFlow Developer Specialization](https://www.coursera.org/account/accomplishments/professional-cert/GUKKBJZZDVU5) (Coursera - deeplearning.ai)
   + [Introduction to Machine Learning in Production](https://www.coursera.org/account/accomplishments/verify/WYN72KPRK39X) (Coursera - deeplearning.ai)
-  + [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?) (Currently in progress) (Coursera - deeplearning.ai)
+  + [Deep Learning Specialization](https://coursera.org/verify/specialization/2NLARPCBTEKK) (Coursera - deeplearning.ai)
 
 # Notes
 Notes from some of the courses above - [Notes](https://github.com/faznaimov/ml/blob/master/Machine_Learning_Notes.pdf)
