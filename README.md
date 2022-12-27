@@ -26,7 +26,7 @@ The repository was created to track my progress in Machine Learning related topi
 | [Credit Card Fraud Detection](https://github.com/faznaimov/ml/blob/master/projects/fraud_detection.ipynb) | MLP, 4-layers, dropout-regularization | Python, TensorFlow, Sklearn, Matplotlib, Numpy, Pandas, Seaborn  | [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud) | 11/07/2019 | 11/24/2019 |
 | [Twitter Sentiment Analysis](https://github.com/faznaimov/ml/blob/master/projects/twitter.ipynb) | CNN/RNN, max pooling, LSTM, dropout-regularization | Python, TensorFlow, Numpy, Pandas, NTLK | [Kaggle](https://www.kaggle.com/kazanova/sentiment140) | 11/13/2019 | 12/10/2019 |
 | [Titanic Disaster Survivor Prediction](https://github.com/faznaimov/ml/blob/master/projects/titanic.ipynb) | XGBoost | Python, XGBoost, Numpy, Pandas, Matplotlib, Seaborn, GridSearch  | [Kaggle](https://www.kaggle.com/competitions/titanic/data) | 08/9/2022 | 08/27/2022 |
-
+| [House Prices Prediction with SKLearn Pipeline](https://github.com/faznaimov/ml/blob/master/projects/house_prices_sk_pipeline.ipynb) | 10 Regression Models, Hyperparameter search using GridSearch and RandomizedSearchCV, SKLearn Pipeline | Python, SKLearn, LightGBM, CatBoost, XGBoost, Numpy, Pandas, Matplotlib, Seaborn, GridSearch, RandomizedSearchCV  | [Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data) | 12/15/2022 | 12/26/2022 |
 
 # ML Showcase
 In this section I want to present my knowledge about various ML related algorithms, frameworks, programming languages, libraries and more. Priority is to show how the algorithm works - not to solve complex and ambitious problems.
@@ -91,10 +91,10 @@ In this section I want to present my knowledge about various ML related algorith
   + [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101) (Udacity)
   + [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) (Udacity)
   + [Data Structures and Algorithms Course in Python](https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/l) (Udemy)
-  + [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/USEYWVMLNW4E) (Coursera - Stanford - Andrew Ng)
+  + [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/USEYWVMLNW4E) (Coursera - Stanford - Andrew Ng)
   + [DeepLearning.AI TensorFlow Developer Specialization](https://www.coursera.org/account/accomplishments/professional-cert/GUKKBJZZDVU5) (Coursera - deeplearning.ai)
   + [Introduction to Machine Learning in Production](https://www.coursera.org/account/accomplishments/verify/WYN72KPRK39X) (Coursera - deeplearning.ai)
-  + [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?) (Currently in progress) (Coursera - deeplearning.ai)
+  + [Deep Learning Specialization](https://coursera.org/verify/specialization/2NLARPCBTEKK) (Coursera - deeplearning.ai)
 
 # Notes
 Notes from some of the courses above - [Notes](https://github.com/faznaimov/ml/blob/master/Machine_Learning_Notes.pdf)
