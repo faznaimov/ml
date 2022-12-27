@@ -85,8 +85,7 @@ In this section I want to present my knowledge about various ML related algorith
 | MLP | [Content-Based Filtering Recommender System](https://github.com/faznaimov/ml/blob/master/showcases/deeplearning/recommender_systems/content_filtering.ipynb) | TensorFlow, Recommender System | [MovieLens](https://files.grouplens.org/datasets/movielens/ml-latest-small.zip) | 9/30/2022 | 10/17/2022 |
 | Reinforcement Learning | [Lunar Lander](https://github.com/faznaimov/ml/blob/master/showcases/deeplearning/reinforcement_learning/lunar_lander.ipynb) | TensorFlow | [OpenAI Gym](https://www.gymlibrary.dev) | 9/30/2022 | 10/17/2022 |
 
-
-# COURSES & CERTIFICATES
+# Courses & Certificates
   + [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning) (Coursera - Imperial College London)
   + [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101) (Udacity)
   + [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) (Udacity)
@@ -99,7 +98,7 @@ In this section I want to present my knowledge about various ML related algorith
 # Notes
 Notes from some of the courses above - [Notes](https://github.com/faznaimov/ml/blob/master/Machine_Learning_Notes.pdf)
 
-# CONTACT
+# Contact
 - [Portfolio](https://faznaimov.github.io)
 - [LinkedIn](https://www.linkedin.com/in/fazn/)
 - [Email](mailto:faz.naimov@gmail.com)
