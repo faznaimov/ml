@@ -3,28 +3,27 @@
 The repository was created to track my progress in Machine Learning related topics in order to organize my knowledge and goals. Includes machine learning projects and showcases in Scikit-Learn, TensorFlow, and Keras.
 
 # Table of Contents
-- [My Road to ML](#My-Road-to-ML)
-- [Table of content](#Table-of-content)
-- [Mini Projects](#Mini-Projects)
-- [ML Showcase](#ML-Showcase)
-	- [Raw Python](#Raw-Python)
-		- [Machine Learning](#Machine-Learning)
-		- [Deep Learning](#Deep-Learning)
-	- [Sklearn](#Sklearn)
-	- [TensorFlow](#TensorFlow)
-		- [Image Classification](#Image-Classification)
+- [My Road to ML](#my-road-to-ml)
+- [Table of Contents](#table-of-contents)
+- [Mini Projects](#mini-projects)
+- [ML Showcase](#ml-showcase)
+	- [Raw Python](#raw-python)
+		- [Machine Learning](#machine-learning)
+		- [Deep Learning](#deep-learning)
+	- [Sklearn](#sklearn)
+	- [TensorFlow](#tensorflow)
+		- [Image Classification](#image-classification)
 		- [Natural Language Processing (NLP)](#natural-language-processing-nlp)
-		- [Time Series](#Time-Series)
-		- [Other](#Other)
-- [Courses & Certificates](#Courses--Certificates)
-- [Contact](#Contact)
+		- [Time Series](#time-series)
+		- [Other](#other)
+- [Courses & Certificates](#courses--certificates)
+- [Notes](#notes)
+- [Contact](#contact)
 
 # Mini Projects
 | Problem | Description | Tech Stack | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | [The Simpsons Characters Classification](https://github.com/faznaimov/ml/blob/master/projects/simpsons-classification.ipynb) | CNN,  4 and 6 convolutions, dropout-regularization, data-augmentation | Python, TensorFlow, Matplotlib, Flask, Numpy | [Kaggle](https://www.kaggle.com/alexattia/the-simpsons-characters-dataset/data) | 9/15/2019 | 10/27/2019 |
-| [Credit Card Fraud Detection](https://github.com/faznaimov/ml/blob/master/projects/fraud_detection.ipynb) | MLP, 4-layers, dropout-regularization | Python, TensorFlow, Sklearn, Matplotlib, Numpy, Pandas, Seaborn  | [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud) | 11/07/2019 | 11/24/2019 |
-| [Twitter Sentiment Analysis](https://github.com/faznaimov/ml/blob/master/projects/twitter.ipynb) | CNN/RNN, max pooling, LSTM, dropout-regularization | Python, TensorFlow, Numpy, Pandas, NTLK | [Kaggle](https://www.kaggle.com/kazanova/sentiment140) | 11/13/2019 | 12/10/2019 |
 | [Titanic Disaster Survivor Prediction](https://github.com/faznaimov/ml/blob/master/projects/titanic.ipynb) | XGBoost | Python, XGBoost, Numpy, Pandas, Matplotlib, Seaborn, GridSearch  | [Kaggle](https://www.kaggle.com/competitions/titanic/data) | 08/9/2022 | 08/27/2022 |
 | [House Prices Prediction with SKLearn Pipeline](https://github.com/faznaimov/ml/blob/master/projects/house_prices_sk_pipeline.ipynb) | 10 Regression Models, Hyperparameter search using GridSearch and RandomizedSearchCV, SKLearn Pipeline | Python, SKLearn, LightGBM, CatBoost, XGBoost, Numpy, Pandas, Matplotlib, Seaborn, GridSearch, RandomizedSearchCV  | [Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data) | 12/15/2022 | 12/26/2022 |
 
@@ -70,6 +69,7 @@ In this section I want to present my knowledge about various ML related algorith
 | :---: | :---: | :---: | :---: | :---: | :---: | 
 | MLP | [BBC News Classification](https://github.com/faznaimov/ml/blob/master/showcases/deeplearning/BBC-archive/bbc-archive.ipynb) | 3 layers, global average pooling | [BBC Archive](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/bbc-text.csv) | 10/23/2019 | 11/05/2019 |
 | RNN | [Poem Generator](https://github.com/faznaimov/ml/blob/master/showcases/deeplearning/poem/shakespeare.ipynb) | Bidirectional LSTM, dropout  | [Shakespeare Sonnets](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/sonnets.txt) | 10/23/2019 | 10/05/2019 |
+| CNN/RNN | [Twitter Sentiment Analysis](https://github.com/faznaimov/ml/blob/master/projects/twitter.ipynb) | Max pooling, LSTM, dropout-regularization, NTLK | [Kaggle](https://www.kaggle.com/kazanova/sentiment140) | 11/13/2019 | 12/10/2019 |
 
 ### Time Series
 | Net Type | Problem | Description | Dataset | Creation Date | Last Update |
@@ -80,10 +80,12 @@ In this section I want to present my knowledge about various ML related algorith
 | Net Type | Problem | Description | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: | 
 | MLP | [Smartphone Activity Detector](https://github.com/faznaimov/ml/blob/master/showcases/deeplearning/Smartphones/Smartphone_Activity_Detector.ipynb) | 3 layers with 1 hidden layer, ReLu, Softmax, Adam Optimizer | [Dataset](https://github.com/faznaimov/ml/tree/master/showcases/deeplearning/Smartphones/Resources/) | 10/03/2019 | 10/20/2019 |
+| MLP | [Credit Card Fraud Detection](https://github.com/faznaimov/ml/blob/master/projects/fraud_detection.ipynb) | 4-layers, dropout-regularization | [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud) | 11/07/2019 | 11/24/2019 |
 | Linear Regression | [Gold Futures Prediction](https://github.com/faznaimov/ml/blob/master/showcases/deeplearning/Futures-Prediction/Futures-Prediction.ipynb) | TensorFlow | [Investing.com](investing.com) | 11/17/2019 | 11/29/2022 |
 | Linear Regression | [Collaborative Filtering Recommender System](https://github.com/faznaimov/ml/blob/master/showcases/deeplearning/collaborative_recsys/col_rec_sys.ipynb) | TensorFlow, Recommender System | [MovieLens](https://files.grouplens.org/datasets/movielens/ml-latest-small.zip) | 9/27/2022 | 10/17/2022 |
 | MLP | [Content-Based Filtering Recommender System](https://github.com/faznaimov/ml/blob/master/showcases/deeplearning/recommender_systems/content_filtering.ipynb) | TensorFlow, Recommender System | [MovieLens](https://files.grouplens.org/datasets/movielens/ml-latest-small.zip) | 9/30/2022 | 10/17/2022 |
 | Reinforcement Learning | [Lunar Lander](https://github.com/faznaimov/ml/blob/master/showcases/deeplearning/reinforcement_learning/lunar_lander.ipynb) | TensorFlow | [OpenAI Gym](https://www.gymlibrary.dev) | 9/30/2022 | 10/17/2022 |
+
 
 # Courses & Certificates
   + [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning) (Coursera - Imperial College London)
