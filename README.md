@@ -69,7 +69,7 @@ In this section I want to present my knowledge about various ML related algorith
 | :---: | :---: | :---: | :---: | :---: | :---: | 
 | MLP | [BBC News Classification](https://github.com/faznaimov/ml/blob/master/showcases/deeplearning/BBC-archive/bbc-archive.ipynb) | 3 layers, global average pooling | [BBC Archive](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/bbc-text.csv) | 10/23/2019 | 11/05/2019 |
 | RNN | [Poem Generator](https://github.com/faznaimov/ml/blob/master/showcases/deeplearning/poem/shakespeare.ipynb) | Bidirectional LSTM, dropout  | [Shakespeare Sonnets](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/sonnets.txt) | 10/23/2019 | 10/05/2019 |
-| CNN/RNN | [Twitter Sentiment Analysis](https://github.com/faznaimov/ml/blob/master/projects/twitter.ipynb) | Max pooling, LSTM, dropout-regularization, NTLK | [Kaggle](https://www.kaggle.com/kazanova/sentiment140) | 11/13/2019 | 12/10/2019 |
+| CNN/RNN | [Twitter Sentiment Analysis](https://github.com/faznaimov/ml/blob/master/showcases/deeplearning/twitter/twitter.ipynb) | Max pooling, LSTM, dropout-regularization, NTLK | [Kaggle](https://www.kaggle.com/kazanova/sentiment140) | 11/13/2019 | 12/10/2019 |
 
 ### Time Series
 | Net Type | Problem | Description | Dataset | Creation Date | Last Update |
@@ -80,7 +80,7 @@ In this section I want to present my knowledge about various ML related algorith
 | Net Type | Problem | Description | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: | 
 | MLP | [Smartphone Activity Detector](https://github.com/faznaimov/ml/blob/master/showcases/deeplearning/Smartphones/Smartphone_Activity_Detector.ipynb) | 3 layers with 1 hidden layer, ReLu, Softmax, Adam Optimizer | [Dataset](https://github.com/faznaimov/ml/tree/master/showcases/deeplearning/Smartphones/Resources/) | 10/03/2019 | 10/20/2019 |
-| MLP | [Credit Card Fraud Detection](https://github.com/faznaimov/ml/blob/master/projects/fraud_detection.ipynb) | 4-layers, dropout-regularization | [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud) | 11/07/2019 | 11/24/2019 |
+| MLP | [Credit Card Fraud Detection](https://github.com/faznaimov/ml/blob/master/showcases/deeplearning/fraud_detection/fraud_detection.ipynb) | 4-layers, dropout-regularization | [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud) | 11/07/2019 | 11/24/2019 |
 | Linear Regression | [Gold Futures Prediction](https://github.com/faznaimov/ml/blob/master/showcases/deeplearning/Futures-Prediction/Futures-Prediction.ipynb) | TensorFlow | [Investing.com](investing.com) | 11/17/2019 | 11/29/2022 |
 | Linear Regression | [Collaborative Filtering Recommender System](https://github.com/faznaimov/ml/blob/master/showcases/deeplearning/collaborative_recsys/col_rec_sys.ipynb) | TensorFlow, Recommender System | [MovieLens](https://files.grouplens.org/datasets/movielens/ml-latest-small.zip) | 9/27/2022 | 10/17/2022 |
 | MLP | [Content-Based Filtering Recommender System](https://github.com/faznaimov/ml/blob/master/showcases/deeplearning/recommender_systems/content_filtering.ipynb) | TensorFlow, Recommender System | [MovieLens](https://files.grouplens.org/datasets/movielens/ml-latest-small.zip) | 9/30/2022 | 10/17/2022 |
